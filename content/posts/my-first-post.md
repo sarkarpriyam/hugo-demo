@@ -1,7 +1,7 @@
 ---
 title: 'My First Post'
 date: 2024-03-03T15:37:47+05:30
-draft: true
+draft: false
 cover:
     image: img/headphones.jpg
     alt: 'This is a post image'

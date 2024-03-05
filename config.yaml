@@ -5,12 +5,12 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: "hello Stranger"
-    Content: "Welcome to my blog."
+    Title: "Python Code Snippets"
+    Content: "This Blog contains all the required python codes"
 
-  socialIcons:
-    - name: facebook
-      url: "www.facebook.com"
+  # socialIcons:
+  #   - name: github
+  #     url: "https://github.com/sarkarpriyam"
   cover:
     linkFullImages: true
   

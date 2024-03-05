@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on CodeScorpions</title>
+    <link>//localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on CodeScorpions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 15:37:47 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 03 Mar 2024 15:37:47 +0530</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Hello I am Priyam Sarkar studying in BMSCE AIML and I love computers.</description>
+    </item>
+  </channel>
+</rss>
